@@ -1,4 +1,5 @@
 // JavaScript File
+// where is this comment?
 
 var myButton = document.getElementById("clickButton");
 var myText = document.getElementById("helloText");
